@@ -16,7 +16,7 @@ Available words:
     4. rodjak
     5. razgovor
     
-  -English
+  -English:
     1. friend
     2. trail
     3. the secret
